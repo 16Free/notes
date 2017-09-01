@@ -1,0 +1,23 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/16Free/notes.git"
+  },
+  "keywords": [
+    "notes"
+  ],
+  "author": "16Free",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/16Free/notes/issues"
+  },
+  "homepage": "https://github.com/16Free/notes#readme"
+}
