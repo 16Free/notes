@@ -47,7 +47,7 @@ fetchIssues(config.owner, config.repository).then((issues) => {
     const date = issue.createdAt.slice(0, 10)
     const tags = issue.labels.map((label) => ` | [${label.name}](${issueHome}${label.name})`).join(' ')
     const url = [GITHUB_HOME, config.owner, config.repository, 'issues', issue.number].join('/')
-    catalog += `[${issue.title}](${url})${tags} [创建时间：${date}] [更新时间：${issue.updatedAt}]\n\n`
+    catalog += `[${date}] [${issue.title}](${url})${tags}\n\n`
   })
 
   const template = fs.readFileSync(config.readmeTemplate, 'utf-8')
