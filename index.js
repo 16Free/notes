@@ -72,7 +72,7 @@ fetchIssues(config.owner, config.repository).then((issues) => {
     pushCategories(categoryArr, issue.labels)
   })
 
-  const categories = categoryArr.map((label) => `[${label.name}](${issueHome}${label.name})`).join(' ')
+  const categories = categoryArr.map((label) => `[${label.name}](${issueHome}${label.name})`).join(' - ')
 
   const template = fs.readFileSync(config.readmeTemplate, 'utf-8')
   const readmeText = format(template, {
