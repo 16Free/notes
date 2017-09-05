@@ -1,13 +1,15 @@
 # Notes
 
-> 最后更新时间：2017-9-1 15:24:6
+> 最后更新时间：2017-9-5 10:52:8
 
 ## 分类：
 
-[CSS](https://github.com/16free/notes/issues?q=is%3Aissue+is%3Aopen+label%3ACSS) - [Vim](https://github.com/16free/notes/issues?q=is%3Aissue+is%3Aopen+label%3AVim) - [Linux](https://github.com/16free/notes/issues?q=is%3Aissue+is%3Aopen+label%3ALinux) - [JavaScript](https://github.com/16free/notes/issues?q=is%3Aissue+is%3Aopen+label%3AJavaScript) - [HTML](https://github.com/16free/notes/issues?q=is%3Aissue+is%3Aopen+label%3AHTML) - [Maven](https://github.com/16free/notes/issues?q=is%3Aissue+is%3Aopen+label%3AMaven) - [MySql](https://github.com/16free/notes/issues?q=is%3Aissue+is%3Aopen+label%3AMySql) - [Apache](https://github.com/16free/notes/issues?q=is%3Aissue+is%3Aopen+label%3AApache) - [JDK](https://github.com/16free/notes/issues?q=is%3Aissue+is%3Aopen+label%3AJDK) - [Tool](https://github.com/16free/notes/issues?q=is%3Aissue+is%3Aopen+label%3ATool)
+[JavaScript](https://github.com/16free/notes/issues?q=is%3Aissue+is%3Aopen+label%3AJavaScript) - [CSS](https://github.com/16free/notes/issues?q=is%3Aissue+is%3Aopen+label%3ACSS) - [Vim](https://github.com/16free/notes/issues?q=is%3Aissue+is%3Aopen+label%3AVim) - [Linux](https://github.com/16free/notes/issues?q=is%3Aissue+is%3Aopen+label%3ALinux) - [HTML](https://github.com/16free/notes/issues?q=is%3Aissue+is%3Aopen+label%3AHTML) - [Maven](https://github.com/16free/notes/issues?q=is%3Aissue+is%3Aopen+label%3AMaven) - [MySql](https://github.com/16free/notes/issues?q=is%3Aissue+is%3Aopen+label%3AMySql) - [Apache](https://github.com/16free/notes/issues?q=is%3Aissue+is%3Aopen+label%3AApache) - [JDK](https://github.com/16free/notes/issues?q=is%3Aissue+is%3Aopen+label%3AJDK) - [Tool](https://github.com/16free/notes/issues?q=is%3Aissue+is%3Aopen+label%3ATool)
 
 
 ## 列表
+
+[2017-09-05] [JavaScript 实现 sleep 函数](https://github.com/16free/notes/issues/13) | [JavaScript](https://github.com/16free/notes/issues?q=is%3Aissue+is%3Aopen+label%3AJavaScript)
 
 [2017-09-01] [CSS 样式画各种图形](https://github.com/16free/notes/issues/12) | [CSS](https://github.com/16free/notes/issues?q=is%3Aissue+is%3Aopen+label%3ACSS)
 
