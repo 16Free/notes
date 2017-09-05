@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "generate": "node .",
-    "g":"npm run generate"
+    "g": "npm run generate"
   },
   "repository": {
     "type": "git",
