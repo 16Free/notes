@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/16Free/notes/issues"
   },
-  "homepage": "https://github.com/16Free/notes#readme"
+  "homepage": "https://github.com/16Free/notes#readme",
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
 }
