@@ -2,7 +2,7 @@ const fs = require('fs')
 const axios = require('axios')
 
 const config = {
-  owner: '16free',
+  owner: 'gee1k',
   repository: 'notes',
   readmeFile: './README.md',
   readmeTemplate: './template.md'
