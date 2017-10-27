@@ -38,20 +38,10 @@ function format(str, pairs) {
   }, str)
 }
 
-function checkCategory(categories, category) {
-  let i, t
-  for (i = 0; i < categories.length; i++) {
-    t = categories[i]
-    if (category.name === t.name)
-      return 1
-  }
-  return 0
-}
-
 function pushCategories(categories, category) {
   category.forEach((t) => {
-    if (!checkCategory(categories, t))
-      categories.push(t)
+    categories[t.name] = categories[t.name] || 0
+    categories[t.name] ++
   }, this);
 }
 
@@ -61,7 +51,7 @@ fetchIssues(config.owner, config.repository).then((issues) => {
   let updatedAt = `${now.getFullYear()}-${now.getMonth() + 1}-${now.getDate()} ${now.getHours()}:${now.getMinutes()}:${now.getSeconds()}`
   let issueHome = `https://github.com/${config.owner}/${config.repository}/issues?q=is%3Aissue+is%3Aopen+label%3A`
 
-  let categoryArr = []
+  let category = {}
 
   issues.forEach((issue) => {
     const date = issue.createdAt.slice(0, 10)
@@ -69,10 +59,10 @@ fetchIssues(config.owner, config.repository).then((issues) => {
     const url = [GITHUB_HOME, config.owner, config.repository, 'issues', issue.number].join('/')
     catalog += `[${date}] [${issue.title}](${url})${tags}\n\n`
 
-    pushCategories(categoryArr, issue.labels)
+    pushCategories(category, issue.labels)
   })
 
-  const categories = categoryArr.map((label) => `[${label.name}](${issueHome}${label.name})`).join(' - ')
+  const categories = Object.entries(category).map((label) => ` - [${label[0]} ------------- 数量 ${label[1]}](${issueHome}${label[0]})`).join('\n')
 
   const template = fs.readFileSync(config.readmeTemplate, 'utf-8')
   const readmeText = format(template, {
