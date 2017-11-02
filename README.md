@@ -1,9 +1,10 @@
 # Notes
 
-> 最后更新时间：2017-10-27 14:58:11
+> 最后更新时间：2017-11-2 19:10:11
 
 ## 分类：
 
+ - [Ubuntu ------------- 数量 1](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3AUbuntu)
  - [Python ------------- 数量 6](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3APython)
  - [Canvas ------------- 数量 1](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3ACanvas)
  - [IDE ------------- 数量 1](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3AIDE)
@@ -20,6 +21,8 @@
 
 
 ## 列表
+
+[2017-11-02] [Ubuntu 在 GNOME/Unity 下延迟启动应用程序](https://github.com/gee1k/notes/issues/22) | [Ubuntu](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3AUbuntu)
 
 [2017-10-27] [【收藏】字符串格式化符号含义及转义字符含义](https://github.com/gee1k/notes/issues/21) | [Python](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3APython)
 
