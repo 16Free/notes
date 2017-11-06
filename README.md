@@ -1,25 +1,17 @@
 # Notes
 
-> 最后更新时间：2017-10-27 14:58:11
+> 最后更新时间：2017-11-6 14:28:40
 
 ## 分类：
 
- - [Python ------------- 数量 6](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3APython)
- - [Canvas ------------- 数量 1](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3ACanvas)
- - [IDE ------------- 数量 1](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3AIDE)
- - [JavaScript ------------- 数量 3](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3AJavaScript)
- - [CSS ------------- 数量 2](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3ACSS)
- - [Vim ------------- 数量 1](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3AVim)
- - [Linux ------------- 数量 1](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3ALinux)
- - [HTML ------------- 数量 1](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3AHTML)
- - [Maven ------------- 数量 1](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3AMaven)
- - [MySql ------------- 数量 1](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3AMySql)
- - [Apache ------------- 数量 1](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3AApache)
- - [JDK ------------- 数量 1](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3AJDK)
- - [System ------------- 数量 1](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3ASystem)
+ [Electron(1)](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3AElectron)	 [Node(1)](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3ANode)	 [NPM(1)](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3ANPM)	 [Phantomjs(1)](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3APhantomjs)	 [Sass(1)](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3ASass)	 [Ubuntu(1)](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3AUbuntu)	 [Python(6)](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3APython)	 [Canvas(1)](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3ACanvas)	 [IDE(1)](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3AIDE)	 [JavaScript(3)](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3AJavaScript)	 [CSS(2)](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3ACSS)	 [Vim(1)](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3AVim)	 [Linux(1)](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3ALinux)	 [HTML(1)](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3AHTML)	 [Maven(1)](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3AMaven)	 [MySql(1)](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3AMySql)	 [Apache(1)](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3AApache)	 [JDK(1)](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3AJDK)	 [System(1)](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3ASystem)
 
 
 ## 列表
+
+[2017-11-06] [解决 Node.js 由于网络原因导致模块安装和下载失败的方法](https://github.com/gee1k/notes/issues/23) | [Electron](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3AElectron)  | [Node](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3ANode)  | [NPM](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3ANPM)  | [Phantomjs](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3APhantomjs)  | [Sass](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3ASass)
+
+[2017-11-02] [Ubuntu 在 GNOME/Unity 下延迟启动应用程序](https://github.com/gee1k/notes/issues/22) | [Ubuntu](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3AUbuntu)
 
 [2017-10-27] [【收藏】字符串格式化符号含义及转义字符含义](https://github.com/gee1k/notes/issues/21) | [Python](https://github.com/gee1k/notes/issues?q=is%3Aissue+is%3Aopen+label%3APython)
 
